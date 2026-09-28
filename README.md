@@ -157,6 +157,7 @@ Spokesperson and presenter video from a script — no camera, no studio.
 - [Recraft](https://recraft.ai) — vector/SVG and brand-asset specialist. 🔌 🧩
 - [Reve](https://reve.com) — strong prompt adherence, typography, and aesthetics. 🔌
 - [Krea](https://krea.ai) — real-time canvas and a hub for Flux/Imagen/Ideogram/Nano Banana. 🔌
+- [UpRes](https://upres.ai) — AI image & video upscaling (2x–8x) across 14 specialist models with REST API, CLI, and MCP server; free web tier gives 5 watermarked image upscales/month. 🔌 🧩 🆓
 
 ## MCP Servers
 
