@@ -155,6 +155,7 @@ This file is machine-readable. Agents may read it to find and call the right too
 - [IdeaHunter](https://ideahunter.today): evidence-led app ideas with buyer pain, source signals, MVP scope, and a validation step. Free.
 - [SocialEcho](https://www.socialecho.net): publishing, monitoring, analytics, and message management across eleven social platforms. Free.
 - [shortshort](https://www.shortshort.io): turns long videos into vertical clips with face tracking and word-by-word captions; includes a limited free AI trial.
+- [kdpbook.io](https://kdpbook.io): describe a book in a chat and get the Amazon KDP files (print PDF, full-wrap cover, Kindle EPUB, listing sheet); includes 2,000 free credits at signup, free-plan exports are watermarked.
 
 ## Guides
 - [Edit videos with Claude Code](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/guides/edit-video-with-claude.md): no manual editing.
