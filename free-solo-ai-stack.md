@@ -19,6 +19,7 @@ _Last updated: September 2026._
 - [ElevenLabs](https://elevenlabs.io) — free monthly TTS quota. 🆓
 - [Suno](https://suno.com) — free song generations. 🆓
 - [Fish Audio](https://fish.audio) — open-source TTS and voice cloning. 🔓
+- [Piper](https://github.com/OHF-Voice/piper1-gpl) — fast local neural TTS with CLI, Python, C/C++, and HTTP interfaces; runs offline. Voice-model licenses vary. 🆓 🔓
 - [OmniVoice Studio](https://github.com/debpalash/OmniVoice-Studio) — fully-local, open-source ElevenLabs alternative; no API keys, 646 languages. 🆓 🔓
 - [UpRes](https://upres.ai) — 5 watermarked image upscales per month for personal/evaluation use. 🆓
 

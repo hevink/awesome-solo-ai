@@ -133,6 +133,7 @@ Spokesperson and presenter video from a script — no camera, no studio.
 - [ElevenLabs](https://elevenlabs.io) — market-leading TTS, voice cloning, and voice agents; 70+ languages. 🔌 🧩 🆓
 - [Cartesia](https://cartesia.ai) — lowest-latency realtime TTS (~90ms) with 3-second voice cloning. 🔌 🧩
 - [Fish Audio](https://fish.audio) — open-source TTS and voice cloning, ~80% cheaper than ElevenLabs. 🔌 🔓
+- [Piper](https://github.com/OHF-Voice/piper1-gpl) — fast local neural TTS with CLI, Python, C/C++, and HTTP interfaces; runs offline. Voice-model licenses vary. 🆓 🔓
 - [Hume](https://hume.ai) — emotion-aware voice (EVI) and expressive Octave TTS. 🔌
 - [Rime](https://rime.ai) — developer/enterprise TTS with sub-200ms latency. 🔌
 - [Resemble AI](https://resemble.ai) — enterprise voice cloning plus deepfake detection. 🔌 🧩

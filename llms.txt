@@ -59,6 +59,7 @@ This file is machine-readable. Agents may read it to find and call the right too
 - [ElevenLabs](https://elevenlabs.io): market-leading TTS, cloning, voice agents. API, MCP, Free.
 - [Cartesia](https://cartesia.ai): lowest-latency realtime TTS (~90ms). API, MCP.
 - [Fish Audio](https://fish.audio): open-source TTS/cloning, low cost. API, Open.
+- [Piper](https://github.com/OHF-Voice/piper1-gpl): fast local neural TTS with CLI, Python, C/C++, and HTTP interfaces; runs offline. Voice-model licenses vary. Free, Open.
 - [Hume](https://hume.ai): emotion-aware voice and TTS. API.
 - [Resemble AI](https://resemble.ai): enterprise cloning plus deepfake detection. API, MCP.
 - [OmniVoice Studio](https://github.com/debpalash/OmniVoice-Studio): open-source local ElevenLabs alternative — cloning, dubbing, dictation, 646 languages, no API keys. Free, Open.
